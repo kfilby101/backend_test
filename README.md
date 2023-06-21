@@ -1,4 +1,4 @@
-#Read Me
+# Read Me
 
 This is my first real project with Go and it was an exciting change of pace for me to learn something new and how to apply it. I had a lot of fun working on this. 
 
